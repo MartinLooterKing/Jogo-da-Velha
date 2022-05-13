@@ -1,0 +1,1 @@
+Projeto simples de como fazer um jogo da velha com JavaScript/JQuery e HTML.
